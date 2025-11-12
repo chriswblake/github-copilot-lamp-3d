@@ -72,3 +72,62 @@ Select the USB serial device.
 1. Scroll to the bottom and look for the backup options.
 
    (pending: premade config and playlists)
+## 2. Pre-Assembly and Testing
+
+### LED Matrix - Face
+
+Let's connect 3 LED matrix boards to be the lights for Copilot's face.
+
+1. Align 3 of the matrix boards with the text facing the same direction. Tape them together.
+
+> [!WARNING]  
+> The Orientation must be correct.
+> `DIN` will align with `DOUT` on the board next to it.
+
+
+2. Link the boards by soldering them together. Only 1 `GND` is necessary per connection.
+
+
+3. Attach a plug-style JST cable to the `DIN` (right side from back view).
+
+
+4. Attach a **plug-style** JST cable to the `DIN` (right side from back view).
+
+  - Red Wire: `VCC` (power)
+  - White Wire: `GND` (ground)
+  - Yellow Wire: `DIN` (digital)
+
+
+5. Attach a **socket-style** JST cable to the `DOUT` (left side from back view).
+
+  - Red Wire: `VCC` (power)
+  - White Wire: `GND` (ground)
+  - Yellow Wire: `DOUT` (digital)
+
+### LED Matrix - Goggles
+
+Let's prepare 2 LED matrix boards for Copilot's goggles.
+
+1. Attach a **plug-style** JST cable to the `DIN` (right side from back view).
+
+
+1. On 1 of the 2 boards, attach a **socket-style** JST cable to the `DIN` (right side from back view).
+
+
+1. Attach a **socket-style** JST cable to the microcontroller.
+  
+  - Red Wire: `5V` (power)
+  - White Wire: `G` (ground)
+  - Green Wire: `D4` (digital)
+
+
+2. Attach the short micro-usb extension.
+    
+
+### Pre-check Testing
+
+1. Connect the 3x LED panel and the 2 goggle LED panels.
+1. Connect the LEDs to the microcontroller.
+1. Plug in the USB cable to apply power.
+1. The LEDs should randomly glow rainbow colors.
+
