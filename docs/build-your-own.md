@@ -52,3 +52,23 @@ The .STL files for all of the printable parts are in the `/models` folder.
 <img src="components/thruster.jpg" width="200px"> | Thruster | Space for extra power electronics or a decorative base. |
 <img src="components/eyes.jpg" width="200px"> | Eyes 1 and 2 | Swappable eye inserts for the face |
 
+## 1. Install Software
+
+If you order the microcontrollers from the provided link, there is a good chance that 1 of the 5 boards will be bad.
+It's important to start with installing the software.
+
+1. Connect the microcontroller to your computer using a USB cable.
+1. Open a web browser and navigate to the [WLED install page](https://install.wled.me/).
+1. In the drop down, ensure version `0.15.x` is selected.
+1. Click the **Install** button and a window will appear.
+Select the USB serial device.
+1. Follow the instructions and wait a few minutes for the install.
+    - If this seems to have trouble, try a different board.
+1. When asked, enter your WiFi details.
+    - Accessing the device locally is required to upload the configuration.
+1. When the install is finished, click the **Visit Device** button.
+1. On the device's main page, in the top right, click the **Config** button.
+1. At the bottom, select **Security and Updates**
+1. Scroll to the bottom and look for the backup options.
+
+   (pending: premade config and playlists)
