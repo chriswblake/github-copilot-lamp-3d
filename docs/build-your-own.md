@@ -143,3 +143,27 @@ Let's prepare 2 LED matrix boards for Copilot's goggles.
 
 3. Slide the Face into the first groove.
 
+### Goggles Install
+
+1. Collect Goggle Frames 1 & 2, both Goggle Holders, both Lens, and the 2 single LED Matrix panels.
+
+2. Slide the cables for an LED panel through the hole of a Goggle Holder.
+
+3. Align the pins and push down to attach the LED panel. It will hold by friction.
+
+   > 🪧 **Note**: Orientation does not matter yet.
+
+4. Select a Goggle Frame and insert a lens. It will hold by friction.
+
+5. Slide the combined Goggle Frame + Lens over a Goggle Holder.
+
+   - Goggle Frame 1: Double cabled LED panel
+   - Goggle Frame 2: Single cabled LED panel
+
+   > ❗️ **IMPORTANT:** Double-check the frame orientation!
+   > Compare the shape and text on the LED matrix to align.
+
+5. Insert Goggle 1 into Helmet Top (left side if looking at Copilot).
+
+5. Insert Goggle 2 into Helmet Top (lefrightt side if looking at Copilot).
+
