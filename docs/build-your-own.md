@@ -25,3 +25,30 @@ In short, it is a few 3D printed parts, a microcontroller, some LEDs and a few w
 > **Tip:** Don't have a 3D printer? Check if your local library has a makerspace.  
 > They might be able to print the parts for you! 🤩
 
+# Instructions
+
+The lamp is designed to be assembled by hand, minus the small amount of soldering.
+
+## 1. Print the parts
+The .STL files for all of the printable parts are in the `/models` folder.
+
+> [!IMPORTANT]
+> Supports are required for several parts.  
+> Check the table below to verify.
+
+> [!Tip]  
+> The thruster is designed to be easy to change.
+> Try making your own decorative base! 🦄 🤩
+
+| Image | Part | Description |
+| -- | -- | -- |
+<img src="components/helmet-top.jpg" width="200px"> | Helmet Top | ??? |
+<img src="components/helmet-bottom.jpg" width="200px"> | Helmet Bottom | Holds the microcontroller, LEDs, and face panel. |
+<img src="components/helmet-pin.jpg" width="200px"> | Helmet Pin | Attach the top and bottom helmet parts together. |
+<img src="components/face.jpg" width="200px"> | Face | Semitransparent face shield for the LED to glow through. |
+<img src="components/goggle-holder.jpg" width="200px"> | Goggle Holder | Contains the LEDs for a single Goggle and mounts to the helmet top. |
+<img src="components/goggle-lens.jpg" width="200px"> | Goggle Lens | Diffuses the LEDs. |
+<img src="components/goggle-frame.jpg" width="200px"> | Goggle Frame 1 & 2 | Snaps onto the Goggle holder to give it the correct shape. |
+<img src="components/thruster.jpg" width="200px"> | Thruster | Space for extra power electronics or a decorative base. |
+<img src="components/eyes.jpg" width="200px"> | Eyes 1 and 2 | Swappable eye inserts for the face |
+
