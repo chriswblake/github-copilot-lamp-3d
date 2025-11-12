@@ -187,3 +187,39 @@ Let's prepare 2 LED matrix boards for Copilot's goggles.
 4. Slide Helmet Top onto Helmet Bottom.
 
 1. You are finished! See the main [README](../README.md) for usage info. Plug it in and enjoy!
+
+## Other Advanced Tasks
+
+### Switch to USB-C.
+
+- ESP8266 Microcontroller USB-C + WiFi [[US]](https://www.amazon.com/dp/B0BHW1CNCM)
+- Short USB-C Extension [[US]](https://www.amazon.com/dp/B01D8FMPP6)
+
+## Troubleshooting
+
+### Reset Device 
+
+- Reset WiFi: hold button 0 for >6 seconds.
+- Reset WLED: hold button 0 for >12 seconds.
+
+# Reference
+
+## Manually Configure
+
+These are the settings for manually configuring a device the same
+as the premade configuration file.
+
+### LED Preferences
+
+- Maximum current: 850mA
+- WS281x
+- GPIO 2
+- Turn LEDs on after power up/reset: checked
+
+### WiFi Setup
+
+DNS address: copilot-lamp-3d.local
+AP SSID: copilot-lamp-3d
+AP Pass: copilot-lamp-3d
+Disable WiFi Sleep: checked
+
