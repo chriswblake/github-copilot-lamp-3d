@@ -167,3 +167,12 @@ Let's prepare 2 LED matrix boards for Copilot's goggles.
 
 5. Insert Goggle 2 into Helmet Top (lefrightt side if looking at Copilot).
 
+### Microcontroller Install
+
+1. Insert the microcontroller into the Helmet Bottom.
+
+1. Twist the USB cable around some of the left cable guides and pinch it into the holder.
+
+1. Connect the LED Matrix cable cables to the microcontroller.
+![](assemble/electronics-plate-4.jpg)
+
