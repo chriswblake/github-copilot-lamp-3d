@@ -176,3 +176,14 @@ Let's prepare 2 LED matrix boards for Copilot's goggles.
 1. Connect the LED Matrix cable cables to the microcontroller.
 ![](assemble/electronics-plate-4.jpg)
 
+## 4. Final Assembly
+
+1. Apply power and verify all lights turn on.
+
+2. Wait a moment and verify WiFi activates.
+
+3. Insert the pins into Helmet Bottom.
+
+4. Slide Helmet Top onto Helmet Bottom.
+
+1. You are finished! See the main [README](../README.md) for usage info. Plug it in and enjoy!
