@@ -33,3 +33,8 @@ If not connected to an existing wifi, it will broadcast a tempory wifi network f
 <img src="docs/README/connect-wifi-3.png" width="24%">
 <img src="docs/README/connect-wifi-4.png" width="24%">
 </div>
+
+# Build your own 🤓
+
+That's cool and all, but how do I make one?!  
+Check out the [build your own](docs/build-your-own.md) page for a step-by-step guide. 🧑‍🚀
