@@ -131,3 +131,15 @@ Let's prepare 2 LED matrix boards for Copilot's goggles.
 1. Plug in the USB cable to apply power.
 1. The LEDs should randomly glow rainbow colors.
 
+
+## 3. Main Assembly
+
+### Face Install
+
+1. Collect the 3x LED panel, Helmet Bottom, and Face parts.
+
+2. Slide the 3x LED panel into the second groove.
+
+
+3. Slide the Face into the first groove.
+
