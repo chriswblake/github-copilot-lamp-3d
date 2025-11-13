@@ -3,8 +3,14 @@
 A fun and playful lamp to match the energy of GitHub Copilot. It's 3d printable, fairly easy to assemble, WiFi connected and powered by WLED and touch!
 
 > This is an upgraded 3D version of the original [GitHub Copilot Lamp](https://github.com/chriswblake/github-copilot-lamp)! Go Check that out too! :copilot:
-
-![Copilot Lamp 3D]()
+> 
+<p align="center">
+<img height="150" alt="Manufacturetocat" src="https://github.com/user-attachments/assets/1e8e84fb-4b70-4fe2-8c7a-482d37331e21" />
+<br/>
+🚧 Under Construction 🚧<br/>
+2025-Nov-12<br/>
+<img height="300" alt="Various lamp parts on a table" src="https://github.com/user-attachments/assets/ab3d8f1b-5398-4c6d-ac3b-81c0e2228616" />
+</p>
 
 ## How to Use
 
