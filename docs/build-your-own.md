@@ -118,56 +118,74 @@ Let's upload a configuration for the device's LED orientation, and then presets 
    <img src="build-your-own/3-1.jpg"/>
    <img src="build-your-own/3-2.jpg"/>
 
+## 4. Prepare the Face LEDs
 
-Let's connect 3 LED matrix boards to be the lights for Copilot's face.
+Let's connect 3 LED matrix boards together. This will be the lights for Copilot's face.
 
 1. Align 3 of the matrix boards with the text facing the same direction. Tape them together.
 
-> [!WARNING]  
-> The Orientation must be correct.
-> `DIN` will align with `DOUT` on the board next to it.
+   > ⚠️ **Warning:** The Orientation must be correct.
+   > `DIN` will align with `DOUT` on the board next to it.
 
+   <img src="build-your-own/4-1.jpg"/>
 
 2. Link the boards by soldering them together. Only 1 `GND` is necessary per connection.
 
+   <img src="build-your-own/4-2.jpg"/>
 
-3. Attach a plug-style JST cable to the `DIN` (right side from back view).
+   > 🪧 **Note:** Soldering can be difficult, especially across a gap. Just be patient and keep trying. 🧐
 
+3. Attach the JST cables.
 
-4. Attach a **plug-style** JST cable to the `DIN` (right side from back view).
+   - Make sure the cables run toward the middle, not outwards.
+   - Make sure the cables do not extend past the edge of the panel. Otherwise, it will not slide into the mounting slot.
+   - Pay attention to the cable location and type.
 
-  - Red Wire: `VCC` (power)
-  - White Wire: `GND` (ground)
-  - Yellow Wire: `DIN` (digital)
+     - `DIN` (right side) uses a plug-style cable.
+     - `DOUT` (left side) uses a socket-style cable.
 
+   - Pin mapping
+     - Red Wire: `VCC` (power)
+     - Black Wire: `GND` (ground)
+     - Yellow Wire: `DIN` or `DOUT` (digital)
 
-5. Attach a **socket-style** JST cable to the `DOUT` (left side from back view).
+   <img src="build-your-own/4-4.jpg"/>
 
-  - Red Wire: `VCC` (power)
-  - White Wire: `GND` (ground)
-  - Yellow Wire: `DOUT` (digital)
-
-### LED Matrix - Goggles
+## 5. Prepare the Goggles LEDs
 
 Let's prepare 2 LED matrix boards for Copilot's goggles.
 
-1. Attach a **plug-style** JST cable to the `DIN` (right side from back view).
+- One has both a plug-style cable and socket-style cable.
+- One has only a plug-style cable.
 
+   <img width="48%" src="build-your-own/5-1.jpg"/>
+   <img width="48%" src="build-your-own/5-3.jpg"/>
 
-1. On 1 of the 2 boards, attach a **socket-style** JST cable to the `DIN` (right side from back view).
+1. With one LED matrix, attach both a **socket-style** and **plug-style** cable.
 
+   - Make sure the cables run toward the middle, not outwards.
+   - Pay attention to the cable location and type.
 
-1. Attach a **socket-style** JST cable to the microcontroller.
-  
-  - Red Wire: `5V` (power)
-  - White Wire: `G` (ground)
-  - Green Wire: `D4` (digital)
+     - `DIN` (right side) uses a plug-style cable.
+     - `DOUT` (left side) uses a socket-style cable.
 
+   - Pin mapping
+     - Red Wire: `VCC` (power)
+     - Black Wire: `GND` (ground)
+     - Yellow Wire: `DIN` or `DOUT` (digital)
 
-2. Attach the short micro-usb extension.
-    
+   <img src="build-your-own/5-2.jpg"/>
 
-### Pre-check Testing
+1. With another LED matrix, attach a **plug-style** cable.
+
+   - Make sure the cables run toward the middle, not outwards.
+   - Pin mapping
+     - Red Wire: `VCC` (power)
+     - Black Wire: `GND` (ground)
+     - Yellow Wire: `DIN` (digital)
+
+   <img src="build-your-own/5-4.jpg"/>
+
 
 1. Connect the 3x LED panel and the 2 goggle LED panels.
 1. Connect the LEDs to the microcontroller.
