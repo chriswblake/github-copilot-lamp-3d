@@ -4,7 +4,8 @@ The copilot lamp is fairly easy to assemble with a bit of soldering. The hardest
 
 In short, it is a few 3D printed parts, a microcontroller, some LEDs and a few wires to connect it all together.
 
-## Buy the Parts
+![](build-your-own/components-overview.jpg)
+
 
 ### Materials
 
@@ -25,37 +26,29 @@ In short, it is a few 3D printed parts, a microcontroller, some LEDs and a few w
 > **Tip:** Don't have a 3D printer? Check if your local library has a makerspace.  
 > They might be able to print the parts for you! 🤩
 
-# Instructions
+## 2. Print the parts
 
-The lamp is designed to be assembled by hand, minus the small amount of soldering.
+The model (`.stl`) files for all of the printable parts are in the `/components` folder.
 
 ## 1. Print the parts
 The .STL files for all of the printable parts are in the `/models` folder.
 
 > [!IMPORTANT]
-> Supports are required for several parts.  
-> Check the table below to verify.
+> Supports are required for several parts.
+> Please check your slicer results before printing.
 
-> [!Tip]  
-> The thruster is designed to be easy to change.
-> Try making your own decorative base! 🦄 🤩
+| Image                                                         | Part                    | Description                                                         |
+| ------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------- |
+| <img src="../components/helmet-top.jpg" width="200px">        | Helmet Top              | ???                                                                 |
+| <img src="../components/helmet-bottom.jpg" width="200px">     | Helmet Bottom           | Holds the microcontroller, LEDs, and face panel.                    |
+| <img src="../components/face-panel.jpg" width="200px">        | Face Panel              | Semitransparent face shield for the LED to glow through.            |
+| <img src="../components/face-led-guide.jpg" width="200px">    | Face LED Guide          | Maps the light from the LEDs to pixels on the face panel.           |
+| <img src="../components/goggle-frames.jpg" width="200px">     | Goggle Frames 1 & 2     | Snaps onto the Goggle holder to give it the correct shape.          |
+| <img src="../components/goggle-lens.jpg" width="200px">       | Goggle Lens 1 & 2       | Diffuses the LEDs.                                                  |
+| <img src="../components/goggle-led-guides.jpg" width="200px"> | Goggle LED Guides 1 & 2 | Maps the light from the LEDs to pixels on the face panel.           |
+| <img src="../components/goggle-holders.jpg" width="200px">    | Goggle Holders          | Contains the LEDs for a single Goggle and mounts to the helmet top. |
+| <img src="../components/thruster-usb.jpg" width="200px">      | Thruster (USB)          | Space for securing the USB cable or creating an alternative base.   |
 
-| Image | Part | Description |
-| -- | -- | -- |
-<img src="components/helmet-top.jpg" width="200px"> | Helmet Top | ??? |
-<img src="components/helmet-bottom.jpg" width="200px"> | Helmet Bottom | Holds the microcontroller, LEDs, and face panel. |
-<img src="components/helmet-pin.jpg" width="200px"> | Helmet Pin | Attach the top and bottom helmet parts together. |
-<img src="components/face.jpg" width="200px"> | Face | Semitransparent face shield for the LED to glow through. |
-<img src="components/goggle-holder.jpg" width="200px"> | Goggle Holder | Contains the LEDs for a single Goggle and mounts to the helmet top. |
-<img src="components/goggle-lens.jpg" width="200px"> | Goggle Lens | Diffuses the LEDs. |
-<img src="components/goggle-frame.jpg" width="200px"> | Goggle Frame 1 & 2 | Snaps onto the Goggle holder to give it the correct shape. |
-<img src="components/thruster.jpg" width="200px"> | Thruster | Space for extra power electronics or a decorative base. |
-<img src="components/eyes.jpg" width="200px"> | Eyes 1 and 2 | Swappable eye inserts for the face |
-
-## 1. Install Software
-
-If you order the microcontrollers from the provided link, there is a good chance that 1 of the 5 boards will be bad.
-It's important to start with installing the software.
 
 1. Connect the microcontroller to your computer using a USB cable.
 1. Open a web browser and navigate to the [WLED install page](https://install.wled.me/).
