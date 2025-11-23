@@ -186,16 +186,22 @@ Let's prepare 2 LED matrix boards for Copilot's goggles.
 
    <img src="build-your-own/5-4.jpg"/>
 
+## 6. Electronics Check
 
-1. Connect the 3x LED panel and the 2 goggle LED panels.
-1. Connect the LEDs to the microcontroller.
-1. Plug in the USB cable to apply power.
-1. The LEDs should randomly glow rainbow colors.
+1. Connect the microcontroller, Face LED panel, and 2 Goggle LED panels together.
 
+1. Apply power to the microcontroller by plugging in via USB.
 
-## 3. Main Assembly
+1. Verify the lights appear. Colors do not matter.
 
-### Face Install
+   Examples:
+
+   WLED's default if no default provided.
+   <img src="build-your-own/6-1.jpg"/>
+
+   Default set to a preset with random color animation.
+   <img src="build-your-own/6-2.jpg"/>
+
 
 1. Collect the 3x LED panel, Helmet Bottom, and Face parts.
 
