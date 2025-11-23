@@ -53,25 +53,71 @@ The .STL files for all of the printable parts are in the `/models` folder.
 | <img src="../components/goggle-holders.jpg" width="200px">    | Goggle Holders          | Contains the LEDs for a single Goggle and mounts to the helmet top. |
 | <img src="../components/thruster-usb.jpg" width="200px">      | Thruster (USB)          | Space for securing the USB cable or creating an alternative base.   |
 
+## 3. Prepare the Microcontroller
+
+Let's install the software that will control our LEDs,
+and configure the regions for easily changing the face, eyes, and googles.
+
+### 3.1 Install WLED
 
 1. Connect the microcontroller to your computer using a USB cable.
 1. Open a web browser and navigate to the [WLED install page](https://install.wled.me/).
 1. In the drop down, ensure version `0.15.x` is selected.
 1. Click the **Install** button and a window will appear.
-Select the USB serial device.
-1. Follow the instructions and wait a few minutes for the install.
-    - If this seems to have trouble, try a different board.
+1. Select the USB serial device.
+   - If no device is appearing, follow WLEDs tips about installing drivers.
+   - Tip: Newer Macs seem to not include the driver by default anymore.
+1. Follow the instructions and wait a few minutes to install.
+   - If this seems to have trouble, try a another board.
 1. When asked, enter your WiFi details.
-    - Accessing the device locally is required to upload the configuration.
+   - Accessing the device locally is required to upload the configuration.
 1. When the install is finished, click the **Visit Device** button.
+
+### 3.2 Configure WLED
+
+Let's upload a configuration for the device's LED orientation, and then presets to assign regions with names like "Face", "Eye", and "Goggle".
+
 1. On the device's main page, in the top right, click the **Config** button.
-1. At the bottom, select **Security and Updates**
-1. Scroll to the bottom and look for the backup options.
 
-   (pending: premade config and playlists)
-## 2. Pre-Assembly and Testing
+2. Scroll to the bottom and select **Security and Updates**.
 
-### LED Matrix - Face
+3. Find the **Backup & Restore** section.
+
+4. For the **Restore Presets** option. Upload the following file.
+
+   File: [`/wled/presets_playlists.json`](../wled/presets_playlists.json)
+
+   This will install the following:
+
+   - Segments defininig the face, eyes, and goggles.
+   - Presets with example face animations.
+   - Presets with example goggle animations.
+   - Presets with example eye colors and locations.
+   - A playlist to apply a combination of presets on boot.
+
+5. For the **Restore Configuration** option, upload the following file.
+
+   File: [`/wled/configuration.json`](../wled/configuration.json)
+
+   This will install following:
+
+   - Set the device to use 124 LEDs and max 1 amp power.
+   - Assign a 2D layout for the 5 LED matrix panels.
+   - Configure a timer option to turn on the lamp at 9am and off at 5pm. - Enable the option to broadcast a WiFi network named `copilot-lamp-3d`, if no WiFi is found.
+   - Configure a timer option to turn on the lamp at 9am and off at 5pm.
+   - Set the device's network name to `copilot-lamp-3d`.
+
+### 3.3 Attach the LED cable
+
+1. Attach a **socket-style** JST cable to the microcontroller.
+
+   - Red Wire: `5V` (power)
+   - Black Wire: `G` (ground)
+   - Yellow Wire: `D4` (digital)
+
+   <img src="build-your-own/3-1.jpg"/>
+   <img src="build-your-own/3-2.jpg"/>
+
 
 Let's connect 3 LED matrix boards to be the lights for Copilot's face.
 
