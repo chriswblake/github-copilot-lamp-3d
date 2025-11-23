@@ -226,30 +226,58 @@ Let's prepare 2 LED matrix boards for Copilot's goggles.
 
    <img src="build-your-own/7-3.jpg"/>
 
+## 8. Goggles Preparation
 
-1. Collect Goggle Frames 1 & 2, both Goggle Holders, both Lens, and the 2 single LED Matrix panels.
+1. Collect the following parts:
 
-2. Slide the cables for an LED panel through the hole of a Goggle Holder.
+   - Goggle Frames 1 & 2
+   - Goggle Holders 1 & 2
+   - Google Lens 1 & 2
+   - Goggle LED Guides 1 & 2
+   - Both single LED Matrix panels.
 
-3. Align the pins and push down to attach the LED panel. It will hold by friction.
+   <img src="build-your-own/8-1.jpg"/>
 
-   > 🪧 **Note**: Orientation does not matter yet.
+2. Slide the **double-cabled** LED panel's cables through the hole of a Goggle Holder. Align the pins and push down to attach the LED panel.
 
-4. Select a Goggle Frame and insert a lens. It will hold by friction.
+   - It will hold by friction.
+   - Orientation in the holder does not matter.
 
-5. Slide the combined Goggle Frame + Lens over a Goggle Holder.
+   <img src="build-your-own/8-2.jpg"/>
 
-   - Goggle Frame 1: Double cabled LED panel
-   - Goggle Frame 2: Single cabled LED panel
+3. Rotate the combined unit so the text is upright, same as picture above.
 
-   > ❗️ **IMPORTANT:** Double-check the frame orientation!
-   > Compare the shape and text on the LED matrix to align.
+4. Insert the LED Guide.
 
-5. Insert Goggle 1 into Helmet Top (left side if looking at Copilot).
+   - It will hold by friction.
+   - Orientation in the holder does not matter.
 
-5. Insert Goggle 2 into Helmet Top (lefrightt side if looking at Copilot).
+   <img src="build-your-own/8-3.jpg"/>
 
-### Microcontroller Install
+5. Select Goggle Frame 1 and insert a lens.
+
+   - It will hold by friction.
+   - Place the textured side facing outward.
+
+   <img src="build-your-own/8-4.jpg"/>
+
+6. Slide the Goggle Frame over the Goggle Holder .
+
+   - ❗️ **IMPORTANT:** Verify the text is upright.
+   - ❗️ **IMPORTANT:** The straighter edge will be on the **right**.
+
+   <img src="build-your-own/8-5.jpg"/>
+
+   <img src="build-your-own/8-6.jpg"/>
+
+7. Repeat the above steps with the **single-cable** LED Panel.
+
+   - ❗️ **IMPORTANT:** Verify the text is upright.
+   - ❗️ **IMPORTANT:** The straighter edge will be on the **left**.
+
+   <img src="build-your-own/8-7.jpg"/>
+
+   <img src="build-your-own/8-8.jpg"/>
 
 1. Insert the microcontroller into the Helmet Bottom.
 
