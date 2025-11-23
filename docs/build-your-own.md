@@ -202,15 +202,30 @@ Let's prepare 2 LED matrix boards for Copilot's goggles.
    Default set to a preset with random color animation.
    <img src="build-your-own/6-2.jpg"/>
 
+## 7. Face Install
 
-1. Collect the 3x LED panel, Helmet Bottom, and Face parts.
+1. Collect the following parts:
 
-2. Slide the 3x LED panel into the second groove.
+   - Helmet Bottom
+   - Face LED Guide
+   - Face LED LED panel
+   - Microcontroller
 
+2. Slide the Face LED panel into the groove 1 (furthest inward).
 
-3. Slide the Face into the first groove.
+   <img src="build-your-own/7-1.jpg"/>
 
-### Goggles Install
+3. Slide the LED Guide into the groove 2 (middle option).
+
+   <img src="build-your-own/7-2.jpg"/>
+
+4. Coming from the front, slightly bend the Face panel and wrap it around the LED Guide. to insert it.
+
+   - The side mount flaps will extend into groove 3 (furthest outward).
+   - The bottom mount fap will slide downward into a groove in the chin area.
+
+   <img src="build-your-own/7-3.jpg"/>
+
 
 1. Collect Goggle Frames 1 & 2, both Goggle Holders, both Lens, and the 2 single LED Matrix panels.
 
