@@ -279,6 +279,26 @@ Let's prepare 2 LED matrix boards for Copilot's goggles.
 
    <img src="build-your-own/8-8.jpg"/>
 
+## 9. Goggles Install
+
+1. Collect the following parts:
+
+   - Top Helmet
+   - Goggle 1
+   - Goggle 2
+
+   <img src="build-your-own/9-1.jpg"/>
+
+1. Insert Goggles 1 and 2 into the respective ports.
+
+   - The flatter edge will be in the middle.
+
+   <img src="build-your-own/9-2.jpg"/>
+
+1. Flip the combined unit over and connect the 2 cables togther.
+
+   <img src="build-your-own/9-3.jpg"/>
+
 1. Insert the microcontroller into the Helmet Bottom.
 
 1. Twist the USB cable around some of the left cable guides and pinch it into the holder.
