@@ -6,24 +6,28 @@ In short, it is a few 3D printed parts, a microcontroller, some LEDs and a few w
 
 ![](build-your-own/components-overview.jpg)
 
+## 1. Buy the materials
 
 ### Materials
 
 - Black PLA Filament [[US]](https://us.store.bambulab.com/products/pla-basic-filament?variant=41078274654344)
 - White PLA Filament [[US]](https://us.store.bambulab.com/products/pla-basic-filament?variant=41078274687112)
-- 5 WS2812B Addressable LED Matrix (5x5) Panels - [[US]](https://www.amazon.com/dp/B0FLX51BXZ)
+- (5 Qty) WS2812B Addressable LED Matrix (5x5) Panels [[US]](https://www.amazon.com/dp/B0FLX51BXZ)
 - ESP8266 Microcontroller micro-USB + WiFi [[US]](https://www.amazon.com/dp/B081PX9YFV)
+- (3 Qty) Micro JST Cable Sets [[US]](https://www.amazon.com/dp/B07DL4FNTF)
+- Long micro-USB cable. [[US]](https://www.amazon.com/dp/B0CGDPS336)
 
-- 3 Micro JST Cable Sets [[US]](https://www.amazon.com/dp/B07DL4FNTF)
-- Short Micro-USB Extension [[US]](https://www.amazon.com/dp/B0791ZZ3HG)
-- (optional) Long micro-USB cable. [[US]](https://www.amazon.com/dp/B0CGDPS336)
+> [!TIP]
+> You can also use USB-C. I personally do micro-USB because the board and power cables are cheaper.
 
 ### Tools
+
 - Soldering Iron + Solder
 - 3D Printer (min 200x200 print area)
+- Pliers
 
-> [!NOTE]
-> **Tip:** Don't have a 3D printer? Check if your local library has a makerspace.  
+> [!TIP]
+> Don't have a 3D printer? Check if your local library has a makerspace.  
 > They might be able to print the parts for you! 🤩
 
 ## 2. Print the parts
