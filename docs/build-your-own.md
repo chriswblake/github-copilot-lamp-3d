@@ -34,8 +34,7 @@ In short, it is a few 3D printed parts, a microcontroller, some LEDs and a few w
 
 The model (`.stl`) files for all of the printable parts are in the `/models` folder.
 
-## 1. Print the parts
-The .STL files for all of the printable parts are in the `/models` folder.
+The `copilot-lamp-3d.3mf` file is already configured with best orientation, support settings, and suggested layer heights.
 
 > [!IMPORTANT]
 > Supports are required for several parts.
