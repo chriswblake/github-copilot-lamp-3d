@@ -299,14 +299,22 @@ Let's prepare 2 LED matrix boards for Copilot's goggles.
 
    <img src="build-your-own/9-3.jpg"/>
 
-1. Insert the microcontroller into the Helmet Bottom.
+## 10. Microcontroller Install
 
-1. Twist the USB cable around some of the left cable guides and pinch it into the holder.
+Let's mount the microcontroller in the helmet and connect it to the LEDs and USB cable.
 
-1. Connect the LED Matrix cable cables to the microcontroller.
-![](assemble/electronics-plate-4.jpg)
+1. Slide the microcontroller into the slot in the Helmet Bottom.
 
-## 4. Final Assembly
+   <img src="build-your-own/10-1.jpg"/>
+
+1. Connect the Face LED cable and Microcontroller cable.
+
+   <img src="build-your-own/10-2.jpg"/>
+
+1. Pass the USB cable through the lower hole and plug it into the Microcontroller.
+
+   <img src="build-your-own/10-3.jpg"/>
+
 
 1. Apply power and verify all lights turn on.
 
