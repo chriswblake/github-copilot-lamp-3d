@@ -32,7 +32,7 @@ In short, it is a few 3D printed parts, a microcontroller, some LEDs and a few w
 
 ## 2. Print the parts
 
-The model (`.stl`) files for all of the printable parts are in the `/components` folder.
+The model (`.stl`) files for all of the printable parts are in the `/models` folder.
 
 ## 1. Print the parts
 The .STL files for all of the printable parts are in the `/models` folder.
@@ -41,17 +41,17 @@ The .STL files for all of the printable parts are in the `/models` folder.
 > Supports are required for several parts.
 > Please check your slicer results before printing.
 
-| Image                                                         | Part                    | Description                                                         |
-| ------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------- |
-| <img src="../components/helmet-top.jpg" width="200px">        | Helmet Top              | ???                                                                 |
-| <img src="../components/helmet-bottom.jpg" width="200px">     | Helmet Bottom           | Holds the microcontroller, LEDs, and face panel.                    |
-| <img src="../components/face-panel.jpg" width="200px">        | Face Panel              | Semitransparent face shield for the LED to glow through.            |
-| <img src="../components/face-led-guide.jpg" width="200px">    | Face LED Guide          | Maps the light from the LEDs to pixels on the face panel.           |
-| <img src="../components/goggle-frames.jpg" width="200px">     | Goggle Frames 1 & 2     | Snaps onto the Goggle holder to give it the correct shape.          |
-| <img src="../components/goggle-lens.jpg" width="200px">       | Goggle Lens 1 & 2       | Diffuses the LEDs.                                                  |
-| <img src="../components/goggle-led-guides.jpg" width="200px"> | Goggle LED Guides 1 & 2 | Maps the light from the LEDs to pixels on the face panel.           |
-| <img src="../components/goggle-holders.jpg" width="200px">    | Goggle Holders          | Contains the LEDs for a single Goggle and mounts to the helmet top. |
-| <img src="../components/thruster-usb.jpg" width="200px">      | Thruster (USB)          | Space for securing the USB cable or creating an alternative base.   |
+| Image                                                     | Part                    | Description                                                         |
+| --------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------- |
+| <img src="../models/helmet-top.jpg" width="200px">        | Helmet Top              | ???                                                                 |
+| <img src="../models/helmet-bottom.jpg" width="200px">     | Helmet Bottom           | Holds the microcontroller, LEDs, and face panel.                    |
+| <img src="../models/face-panel.jpg" width="200px">        | Face Panel              | Semitransparent face shield for the LED to glow through.            |
+| <img src="../models/face-led-guide.jpg" width="200px">    | Face LED Guide          | Maps the light from the LEDs to pixels on the face panel.           |
+| <img src="../models/goggle-frames.jpg" width="200px">     | Goggle Frames 1 & 2     | Snaps onto the Goggle holder to give it the correct shape.          |
+| <img src="../models/goggle-lens.jpg" width="200px">       | Goggle Lens 1 & 2       | Diffuses the LEDs.                                                  |
+| <img src="../models/goggle-led-guides.jpg" width="200px"> | Goggle LED Guides 1 & 2 | Maps the light from the LEDs to pixels on the face panel.           |
+| <img src="../models/goggle-holders.jpg" width="200px">    | Goggle Holders          | Contains the LEDs for a single Goggle and mounts to the helmet top. |
+| <img src="../models/thruster-usb.jpg" width="200px">      | Thruster (USB)          | Space for securing the USB cable or creating an alternative base.   |
 
 ## 3. Prepare the Microcontroller
 
