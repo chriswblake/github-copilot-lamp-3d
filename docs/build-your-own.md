@@ -1,4 +1,4 @@
-# Guide: Build Your Own 
+# Guide: Build Your Own
 
 The copilot lamp is fairly easy to assemble with a bit of soldering. The hardest part is patiently waiting for all the parts to print! 😉
 
