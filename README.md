@@ -13,6 +13,11 @@ A fun and playful lamp to match the energy of GitHub Copilot. It's 3D printable 
 - [Copilot Lamp (2D)](https://github.com/chriswblake/github-copilot-lamp)
 - [Octolamp](https://github.com/martinwoodward/octolamp)
 
+## Build your own 🤓
+
+That's cool and all, but how do I make one?!  
+Check out the [build your own](docs/build-your-own.md) page for a step-by-step guide. 🧑‍🚀
+
 ## How to Use
 
 If you received your lamp prebuilt, is has already been configured and is ready to use. Simply plug it in with a USB cable and power brick with at least 1 amp. The lamp will turn on with an "rainbow" like green effect.
@@ -59,8 +64,3 @@ If not connected to an existing wifi, it will broadcast a tempory wifi network f
 </td>
 </tr>
 </table>
-
-# Build your own 🤓
-
-That's cool and all, but how do I make one?!  
-Check out the [build your own](docs/build-your-own.md) page for a step-by-step guide. 🧑‍🚀
