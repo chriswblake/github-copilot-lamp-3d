@@ -315,6 +315,33 @@ Let's mount the microcontroller in the helmet and connect it to the LEDs and USB
 
    <img src="build-your-own/10-3.jpg"/>
 
+## 11. Attach Helmets and Thruster
+
+Let's combine the 2 halves and then route the USB cable through the thruster.
+
+1. Orient the two assemblies similar to the below picture then connect the Goggle LEDs and Face LEDs.
+
+   <img src="build-your-own/11-1.jpg"/>
+
+2. Flip the Helmet Top assembly over onto Helmet Bottom, align the pins, and gently press downward to connect them.
+
+   - **Tip:** Do not push it all the way down yet!
+
+   <img src="build-your-own/11-2.jpg"/>
+
+3. Tilt the lamp on its side.
+
+4. In the Thruster, route the usb cable through several of the cable guides and out through the slot.
+
+   <img src="build-your-own/11-3.jpg"/>
+
+5. Align the round thruster with the ring/groove on the bottom of the lamp. Press it inwards for it to snap into place.
+
+   - The bottom of the lamp and the thruster have 3 matching notches.
+   - The cable will orient out of the back of Copilot.
+
+   <img src="build-your-own/11-4.jpg"/>
+
 
 1. Apply power and verify all lights turn on.
 
