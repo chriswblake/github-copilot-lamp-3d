@@ -45,16 +45,16 @@ If not connected to an existing wifi, it will broadcast a tempory wifi network f
 <table>
 <tr>
 <td>
-    <img width="100%" alt="anim-1" src="https://github.com/user-attachments/assets/1560c45c-6d7e-4037-8618-abcc090d8e96"/>
+    <img width="100%" alt="anim-1" src="https://github.com/user-attachments/assets/a59d2198-77e3-4eaf-8cdb-22fcb5223507"/>
 </td>
 <td>
-    <img width="100%" alt="anim-2" src="https://github.com/user-attachments/assets/b34596fb-6646-4ed2-a2a2-5c83a8a89d28"/>
+    <img width="100%" alt="anim-2" src="https://github.com/user-attachments/assets/d70c0699-456e-4821-93e8-3b4a0b9df80d"/>
 </td>
 <td>
-    <img width="100%" alt="anim-3" src="https://github.com/user-attachments/assets/b26815ef-0cbd-4539-81bc-c126b4dc7de0"/>
+    <img width="100%" alt="anim-3" src="https://github.com/user-attachments/assets/f1a80026-b179-4c4e-9357-114f61a2301c"/>
 </td>
 <td>
-    <img width="100%" alt="anim-4" src="https://github.com/user-attachments/assets/0ac2ab7e-71e2-410f-8944-63da0d12ac69"/>
+    <img width="100%" alt="anim-4" src="https://github.com/user-attachments/assets/eb863c1a-6094-4a84-a136-324d11affdec"/>
 </td>
 </tr>
 </table>
