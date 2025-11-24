@@ -342,49 +342,14 @@ Let's combine the 2 halves and then route the USB cable through the thruster.
 
    <img src="build-your-own/11-4.jpg"/>
 
+## 4. Final Checks
 
 1. Apply power and verify all lights turn on.
 
 2. Wait a moment and verify WiFi activates.
 
-3. Insert the pins into Helmet Bottom.
+3. Try accessing the lamp from your phone or computer.
 
-4. Slide Helmet Top onto Helmet Bottom.
+4. Try various color animations.
 
-1. You are finished! See the main [README](../README.md) for usage info. Plug it in and enjoy!
-
-## Other Advanced Tasks
-
-### Switch to USB-C.
-
-- ESP8266 Microcontroller USB-C + WiFi [[US]](https://www.amazon.com/dp/B0BHW1CNCM)
-- Short USB-C Extension [[US]](https://www.amazon.com/dp/B01D8FMPP6)
-
-## Troubleshooting
-
-### Reset Device 
-
-- Reset WiFi: hold button 0 for >6 seconds.
-- Reset WLED: hold button 0 for >12 seconds.
-
-# Reference
-
-## Manually Configure
-
-These are the settings for manually configuring a device the same
-as the premade configuration file.
-
-### LED Preferences
-
-- Maximum current: 850mA
-- WS281x
-- GPIO 2
-- Turn LEDs on after power up/reset: checked
-
-### WiFi Setup
-
-DNS address: copilot-lamp-3d.local
-AP SSID: copilot-lamp-3d
-AP Pass: copilot-lamp-3d
-Disable WiFi Sleep: checked
-
+5. You are finished! See the main [README](../README.md) for usage info. Plug it in and enjoy!
