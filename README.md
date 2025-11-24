@@ -1,16 +1,17 @@
 # GitHub Copilot Lamp 3D
 
-A fun and playful lamp to match the energy of GitHub Copilot. It's 3d printable, fairly easy to assemble, WiFi connected and powered by WLED and touch!
+<img height="250" align="right" alt="Various lamp parts on a table" src="docs/README/welcome-anim.webp" />
 
-> This is an upgraded 3D version of the original [GitHub Copilot Lamp](https://github.com/chriswblake/github-copilot-lamp)! Go Check that out too! :copilot:
-> 
-<p align="center">
-<img height="150" alt="Manufacturetocat" src="https://github.com/user-attachments/assets/1e8e84fb-4b70-4fe2-8c7a-482d37331e21" />
-<br/>
-🚧 Under Construction 🚧<br/>
-Last Update: 2025-Nov-23<br/>
-<img height="300" alt="Various lamp parts on a table" src="https://github.com/user-attachments/assets/ab3d8f1b-5398-4c6d-ac3b-81c0e2228616" />
-</p>
+A fun and playful lamp to match the energy of GitHub Copilot. It's 3D printable and fairly easy to assemble!
+
+- WiFi Connected
+- Powered by [WLED](https://kno.wled.ge/)
+- Compatibile with [Home Assistant](https://www.home-assistant.io/)
+
+#### Other Fun GitHub Lamps
+
+- [Copilot Lamp (2D)](https://github.com/chriswblake/github-copilot-lamp)
+- [Octolamp](https://github.com/martinwoodward/octolamp)
 
 ## How to Use
 
@@ -22,16 +23,16 @@ Want full control over your lamp? Connect it to your WiFi network! (2.4ghz only)
 If not connected to an existing wifi, it will broadcast a tempory wifi network for setup.
 
 1. On your phone or computer, search for the wifi network `copilot-lamp-3d` and connect to it.
-    - Default password is `copilot-lamp-3d` or `wled1234`.
+   - Default password is `copilot-lamp-3d` or `wled1234`.
 1. Wait a moment and a temporary login-style web browser will appear. If no browser appears, open a web browser navigate to http://copilot-lamp-3d.local.
 1. In the top right, click the **Config** gear icon to open the settings menu.
 1. Select **WiFi Setup**.
 1. Enter you home's wifi name and password. Click **Save & Connect**. Wait a moment for the lamp to restart.
 1. Reconnect your phone or computer to your home wifi.
 1. Now when connected to your home wifi, you can use the WLED app.
-    - [iOS App](https://apps.apple.com/us/app/wled/id1475695033)
-    - [Android App](https://play.google.com/store/apps/details?id=com.aircoookie.WLED)
-    - Alternately, the lamp can still be accessed in  a web browser by navigating to http://copilot-lamp-3d.local.
+   - [iOS App](https://apps.apple.com/us/app/wled/id1475695033)
+   - [Android App](https://play.google.com/store/apps/details?id=com.aircoookie.WLED)
+   - Alternately, the lamp can still be accessed in a web browser by navigating to http://copilot-lamp-3d.local.
 
 <div>
 <img src="docs/README/connect-wifi-1.png" width="24%">
