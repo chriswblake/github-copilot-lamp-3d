@@ -22,6 +22,16 @@ Check out the [build your own](docs/build-your-own.md) page for a step-by-step g
 
 If you received your lamp prebuilt, is has already been configured and is ready to use. Simply plug it in with a USB cable and power brick with at least 1 amp. The lamp will turn on with an "rainbow" like green effect.
 
+### Connect with the App
+
+1. Ensure you are on the same WiFi network.
+
+2. Download the WLED app.
+   - [iOS App](https://apps.apple.com/us/app/wled/id1475695033)
+   - [Android App](https://play.google.com/store/apps/details?id=com.aircoookie.WLED)
+   - The lamp can also be accessed with web browser by navigating to http://copilot-lamp-3d.local.
+3. Open the app and the lamp should automatically be discovered.
+
 ### Predefined Segments, Presets, and Playlists
 
 There are 5 predefined segments for the face, eyes, and goggles. There are also various example presets that use them to easily adjust the look of Copilot.
@@ -50,10 +60,6 @@ If not connected to an existing wifi, it will broadcast a tempory wifi network f
 1. Select **WiFi Setup**.
 1. Enter you home's wifi name and password. Click **Save & Connect**. Wait a moment for the lamp to restart.
 1. Reconnect your phone or computer to your home wifi.
-1. Now when connected to your home wifi, you can use the WLED app.
-   - [iOS App](https://apps.apple.com/us/app/wled/id1475695033)
-   - [Android App](https://play.google.com/store/apps/details?id=com.aircoookie.WLED)
-   - Alternately, the lamp can still be accessed in a web browser by navigating to http://copilot-lamp-3d.local.
 
 <div>
 <img src="docs/README/connect-wifi-1.png" width="24%">
