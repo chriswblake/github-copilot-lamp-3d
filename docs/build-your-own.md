@@ -60,16 +60,30 @@ and configure the regions for easily changing the face, eyes, and googles.
 ### 3.1 Install WLED
 
 1. Connect the microcontroller to your computer using a USB cable.
+
 1. Open a web browser and navigate to the [WLED install page](https://install.wled.me/).
+
+   <img width="300px" src="build-your-own/3-3.jpg"/>
+
 1. In the drop down, ensure version `0.15.x` is selected.
-1. Click the **Install** button and a window will appear.
-1. Select the USB serial device.
+
+1. Click the **Install** button and a window will appear with a list of devices.
+
+   <img width="300px" src="build-your-own/3-4.jpg"/>
+
+1. Select the **USB Serial** device.
+
    - If no device is appearing, follow WLEDs tips about installing drivers.
    - Tip: Newer Macs seem to not include the driver by default anymore.
+
 1. Follow the instructions and wait a few minutes to install.
-   - If this seems to have trouble, try a another board.
-1. When asked, enter your WiFi details.
-   - Accessing the device locally is required to upload the configuration.
+
+   <img width="300px" src="build-your-own/3-5.jpg"/>
+
+1. When the **Configure Wi-Fi** page appears, enter your network's details.
+
+   <img width="300px" src="build-your-own/3-6.jpg"/>
+
 1. When the install is finished, click the **Visit Device** button.
 
 ### 3.2 Configure WLED
