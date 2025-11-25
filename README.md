@@ -22,6 +22,22 @@ Check out the [build your own](docs/build-your-own.md) page for a step-by-step g
 
 If you received your lamp prebuilt, is has already been configured and is ready to use. Simply plug it in with a USB cable and power brick with at least 1 amp. The lamp will turn on with an "rainbow" like green effect.
 
+### Predefined Segments, Presets, and Playlists
+
+There are 5 predefined segments for the face, eyes, and goggles. There are also various example presets that use them to easily adjust the look of Copilot.
+
+Below are some examples of changing the eye color, eye position, and applying animations to the face.
+
+<div>
+<img src="docs/README/segments.png" width="24%">
+<img src="docs/README/presets-eyes-goggles-color.png" width="24%">
+<img src="docs/README/presets-eyes-position.png" width="24%">
+<img src="docs/README/presets-face.png" width="24%">
+</div>
+
+> [!TIP]
+> You can also do scrolling text! Check out the "Hello World" example.
+
 ### Connect to WiFi
 
 Want full control over your lamp? Connect it to your WiFi network! (2.4ghz only)
